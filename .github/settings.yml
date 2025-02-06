@@ -11,8 +11,10 @@ labels:
     color: "#f1f3f4"
   - name: Priority:p1-urgent
     color: "#ba1a1a"
+    description: Urgent priority
   - name: Priority:p2-high
     color: "#ba1a1a"
+    description: High priority
   - name: Priority:p3-medium
     description: Normal priority
     color: "#ba1a1a"
