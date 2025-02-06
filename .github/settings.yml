@@ -1,0 +1,66 @@
+labels:
+  - name: Component:Backend
+    color: "#f1f3f4"
+  - name: Component:iOS
+    color: "#f1f3f4"
+  - name: Component:Android
+    color: "#f1f3f4"
+  - name: Component:Web
+    color: "#f1f3f4"
+  - name: Component:Desktop
+    color: "#f1f3f4"
+
+  - name: Priority:p1-urgent
+    color: "#ba1a1a"
+  - name: Priority:p2-high
+    color: "#ba1a1a"
+  - name: Priority:p3-medium
+    description: Normal priority
+    color: "#ba1a1a"
+  - name: Priority:p4-low
+    description: Low priority
+    color: "#ba1a1a"
+
+  - name: Type:Good-First-Issue
+    color: "#e2baff"
+  - name: Type:Story
+    color: "#e2baff"
+  - name: Type:Epic
+    color: "#e2baff"
+  - name: Type:Bug
+    color: "#e2baff"
+  - name: Type:Design
+    color: "#e2baff"
+  - name: Type:Maintenance
+    description: E.g. technical debt, dependencies, packaging, etc.
+    color: "#e2baff"
+  - name: Type:Organizational
+    color: "#e2baff"
+  - name: Type:DevOps
+    description: Related to CI/CD
+    color: "#e2baff"
+  - name: Type:Documentation
+    color: "#e2baff"
+
+  - name: Status:Proposal
+    color: "#20434f"
+  - name: Status:Accepted
+    color: "#20434f"
+  - name: Status:Analysis
+    color: "#20434f"
+  - name: Status:Needs-Info
+    color: "#20434f"
+  - name: Status:In-Progress
+    color: "#20434f"
+  - name: Status:Needs-Review
+    color: "#20434f"
+  - name: Status:Tested
+    color: "#20434f"
+  - name: Status:Completed
+    color: "#20434f"
+  - name: Status:Blocked
+    color: "#20434f"
+  - name: Status:Duplicate
+    color: "#20434f"
+  - name: Status:Wont-Fix
+    color: "#20434f"
