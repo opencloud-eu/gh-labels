@@ -21,7 +21,9 @@ top of the file.
 If you need additional labels on top of the organization wide labels, you can add them to the `.github/settings.yml` content:
 
 ```yaml
+---
 labels:
-  - name: LabelNamespace:LabelName
+  - name: Label-Namespace:Label-Name
     color: "#ffffff"
+---
 ```
