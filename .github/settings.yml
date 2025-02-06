@@ -1,14 +1,14 @@
 labels:
   - name: Component:Backend
-    color: "#f1f3f4"
+    color: "#dadada"
   - name: Component:iOS
-    color: "#f1f3f4"
+    color: "#dadada"
   - name: Component:Android
-    color: "#f1f3f4"
+    color: "#dadada"
   - name: Component:Web
-    color: "#f1f3f4"
+    color: "#dadada"
   - name: Component:Desktop
-    color: "#f1f3f4"
+    color: "#dadada"
   - name: Priority:p1-urgent
     color: "#ba1a1a"
     description: Urgent priority
