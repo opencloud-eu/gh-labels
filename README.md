@@ -10,7 +10,7 @@ The labels are defined in the `.github/settings.yml` file. In order to apply the
 ```yaml
 ---
 _extends: gh-labels
----
+...
 ```
 
 If your repository already has a `.github/settings.yml` file, you can just add the `_extends: gh-labels` to the
