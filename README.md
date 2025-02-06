@@ -4,7 +4,7 @@ This repository contains our set of default labels which are to be used in all O
 
 ## How to use
 
-The labels are define in the `.github/settings.yml` file. In order to apply them to a repository, create a 
+The labels are defined in the `.github/settings.yml` file. In order to apply them to a repository, create a 
 `.github/settings.yml` file in your repository and add the following content:
 
 ```yaml
@@ -18,7 +18,7 @@ top of the file.
 
 ## Additional labels
 
-If you need additional labels on top of the organisation wide labels, you can add them to the `.github/settings.yml` content:
+If you need additional labels on top of the organization wide labels, you can add them to the `.github/settings.yml` content:
 
 ```yaml
 labels:
