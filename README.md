@@ -25,5 +25,5 @@ If you need additional labels on top of the organization wide labels, you can ad
 labels:
   - name: Label-Namespace:Label-Name
     color: "#ffffff"
----
+...
 ```
