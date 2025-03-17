@@ -35,7 +35,7 @@ labels:
     color: "#e2baff"
   - name: Type:Security
     color: "#e2baff"
-  - name: Type:Breaking-Changes
+  - name: Type:Breaking-Change
     color: "#e2baff"
   - name: Type:Dependencies
     color: "#e2baff"
