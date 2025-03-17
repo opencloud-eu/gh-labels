@@ -29,10 +29,20 @@ labels:
     color: "#e2baff"
   - name: Type:Bug
     color: "#e2baff"
+  - name: Type:Feature
+    color: "#e2baff"
+  - name: Type:Enhancement
+    color: "#e2baff"
+  - name: Type:Security
+    color: "#e2baff"
+  - name: Type:Breaking-Changes
+    color: "#e2baff"
+  - name: Type:Dependencies
+    color: "#e2baff"
   - name: Type:Design
     color: "#e2baff"
   - name: Type:Maintenance
-    description: E.g. technical debt, dependencies, packaging, etc.
+    description: E.g. technical debt, packaging, etc.
     color: "#e2baff"
   - name: Type:Organizational
     color: "#e2baff"
