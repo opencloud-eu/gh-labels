@@ -28,7 +28,7 @@ labels:
   - name: Type:Epic
     color: "#e2baff"
   - name: Type:Bug
-    color: "#e2baff"
+    color: "#ff0000"
   - name: Type:Feature
     color: "#e2baff"
   - name: Type:Enhancement
@@ -52,6 +52,8 @@ labels:
   - name: Type:Documentation
     color: "#e2baff"
   - name: Type:Test
+    color: "#e2baff"
+  - name: Type:Accessibility-Defect
     color: "#e2baff"
   - name: Status:Proposal
     color: "#20434f"
