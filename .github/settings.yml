@@ -29,7 +29,7 @@ labels:
     color: "#e2baff"
   - name: Type:Bug
     color: "#ff0000"
-  - name: Type:Feature
+  - name: Type:Feature-Request
     color: "#e2baff"
   - name: Type:Enhancement
     color: "#e2baff"
