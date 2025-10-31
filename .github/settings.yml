@@ -9,6 +9,8 @@ labels:
     color: "#dadada"
   - name: Component:Desktop
     color: "#dadada"
+  - name: Component:Groupware
+    color: "#dadada"
   - name: Priority:p1-urgent
     color: "#ba1a1a"
     description: Urgent priority
