@@ -79,3 +79,5 @@ labels:
     color: "#20434f"
   - name: Status:Wont-Fix
     color: "#20434f"
+  - name: Type:Support
+    color: "#db239b"
