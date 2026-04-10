@@ -31,6 +31,8 @@ labels:
     color: "#e2baff"
   - name: Type:Bug
     color: "#ff0000"
+  - name: Type:Regression
+    color: "#ff0000"
   - name: Type:Feature-Request
     color: "#e2baff"
   - name: Type:Enhancement
