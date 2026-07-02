@@ -82,7 +82,7 @@ labels:
   - name: Status:Wont-Fix
     color: "#20434f"
   - name: Status:Future-Consideration
-    description: Great suggestion. It’s not currently planned, thus closed, but we’ll keep it in mind for future roadmap planning.
+    description: Great suggestion. It’s not planned, but we’ll keep it in mind for future roadmap planning.
     color: "#20434f"
   - name: Type:Support
     color: "#db239b"
